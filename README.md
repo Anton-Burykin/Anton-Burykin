@@ -8,11 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="programmist-java.ru" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />][website]
+[<img align="left" alt="programmist-java.ru" width="22px" src="https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png" />][website]
 [<img align="left" alt="byrui.white | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 [<img align="left" alt="white.byrui@gmail.com | mail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Electronic.mail.png" />][mail]
-[<img align="left" alt="@Anton_java_tg | mail" width="22px"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
+[<img align="left" alt="@Anton_java_tg | mail" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
 
 
 <br />
@@ -25,3 +24,8 @@
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Linux" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Deus_Linux.png" />
 <img align="left" alt="SpringBoot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+
+[website]: https://programmist-java.ru/
+[instagram]: https://www.instagram.com/byrui.white
+[mail]: https://mail.google.com/white.byrui@gmail.com
+[telegram]: https://t.me/Anton_java_tg
