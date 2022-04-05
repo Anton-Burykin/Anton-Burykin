@@ -27,5 +27,5 @@
 
 [website]: https://programmist-java.ru/
 [instagram]: https://www.instagram.com/byrui.white
-[mail]: https://mail.google.com/white.byrui@gmail.com
+[mail]: https://mail.google.com
 [telegram]: https://t.me/Anton_java_tg
