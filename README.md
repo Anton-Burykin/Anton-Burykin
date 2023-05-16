@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Anton
 
-## I'm a BackEnd Developer (junior)
+## I'm a BackEnd Developer (junior+)
 - 💪 I like to write code
 - 🎉 I love sport and good music 
 - 🥅 I am constantly learning new things
